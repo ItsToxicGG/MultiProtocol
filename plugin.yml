@@ -2,5 +2,5 @@ name: MultiProtocol
 version: 1.0
 api: [4.0.0]
 author: ToxicDev
-main: pmmp\mv
+main: pmmp\mv\Main
 website: https://github.com/ItzToxicGG/MultiProtocol
